@@ -61,6 +61,7 @@ $(function () {
 
   for (let i = 6; i < 19; i++) { // get items from local storage AFTER the first for loop has finished so that all elemnets are loaded
   document.getElementById(`hour-${i}`).children[1].value = localStorage.getItem(`hour-${i}`);
+  console.log(i);
 }
   
 });
