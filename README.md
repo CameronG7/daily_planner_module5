@@ -20,7 +20,7 @@ Click the above link to see more
 
 ## Credits
 
-Jquery, Bootstrap, and snippets from the UCB bootcamp source code
+Jquery, Bootstrap, dayjs and snippets from the UCB bootcamp source code
 
 ## License
 
